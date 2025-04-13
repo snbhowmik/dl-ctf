@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: "DarkLead! CTF",
-  description: "The Open Developer Community",
+  description: "Shadow Apocalypse CTF 2025 by DarkLead! Community",
   keywords: ["DarkLead", "Community", "Cybersecurity", "Open Source"],
   authors: [{ name: "Gowthaman" }, { name: "Subir" }, { name: "Mehbub" }, { name: "Aflah" }, { name: "Nandakishore" }],
   icons: {
